@@ -23,3 +23,23 @@ How can we address distribution shifts in stock price data to improve stock pric
 
 
 ---
+
+## Citation
+
+Please cite the following paper if you use our data:
+
+
+```
+@inproceedings{Lee2025ReVol,
+  author    = {Hyunwoo Lee and
+               Jihyeong Jeon and
+               Jaemin Hong and
+               U Kang},
+  title     = {Mitigating Distribution Shift in Stock Price Data via Return-Volatility Normalization for Accurate Prediction},
+  booktitle = {{CIKM} '25: The {ACM} International Conference on Information and Knowledge Management, Seoul, Republic of Korea, November 10--14, 2025},
+  publisher = {{ACM}},
+  year      = {2025},
+  url       = {https://doi.org/10.1145/3746252.3761067},
+  doi       = {10.1145/3746252.3761067}
+}
+```
